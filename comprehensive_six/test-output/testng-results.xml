@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-11T02:59:08 IST" name="Default suite" finished-at="2023-10-11T02:59:28 IST" duration-ms="19185">
+    <groups>
+    </groups>
+    <test started-at="2023-10-11T02:59:08 IST" name="Default test" finished-at="2023-10-11T02:59:28 IST" duration-ms="19185">
+      <class name="comprehensive_six.ComprehensiveSix">
+        <test-method signature="uiLinkVerification()[pri:0, instance:comprehensive_six.ComprehensiveSix@8f2ef19]" started-at="2023-10-11T02:59:09 IST" name="uiLinkVerification" finished-at="2023-10-11T02:59:28 IST" duration-ms="19072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uiLinkVerification -->
+      </class> <!-- comprehensive_six.ComprehensiveSix -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
